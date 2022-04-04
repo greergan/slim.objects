@@ -1,2 +1,2 @@
 # slim.objects
-A Typescript library
+A Typescript object library
